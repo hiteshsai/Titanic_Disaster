@@ -3,4 +3,4 @@ Predicting the Survival
 
 # Summary
 
-*Accuracy of this model is * : 81%
+*Accuracy of this model is* : 81%
